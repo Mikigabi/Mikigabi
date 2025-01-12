@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on creating an eCommerce Website
 - 🌱 I’m currently studying at the University of Sunderland
 - 👯 I’m looking to collaborate on any projects to develop my coding skills
-- 🤔 I’m looking for help with motivation :)
+- 🤔 I’m looking for to join as many projects as possible
 - 💬 Ask me about anything
 - 📫 How to reach me: simiiahim@yahoo.com
 - 😄 Pronouns: he/him
