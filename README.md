@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on creating an eCommerce Website
+- 🔭 Developing a multimodal neural network algorithm that combines MRI scans (imaging data) and tabular data (clinical/demographic information) for Alzheimer's disease (AD) detection
+- 🔭 Making a custom Payment Operating System
+- 🔭 I am developing my personal website using React
 - 🌱 I’m currently studying at the University of Sunderland
 - 👯 I’m looking to collaborate on any projects to develop my coding skills
 - 🤔 I’m looking for to join as many projects as possible
